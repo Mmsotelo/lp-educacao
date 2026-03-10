@@ -303,7 +303,7 @@ export default function App() {
 
       {/* FOOTER */}
       <footer className="px-6 py-10 text-center text-sm text-zinc-500">
-        © 2026 • Seu Projeto
+        © 2026 • Exemplo de estrutura de landing page para produto educacional. Todos os direitos reservados.
       </footer>
     </main>
   )
